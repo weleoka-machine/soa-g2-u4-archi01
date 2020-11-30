@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify or change schedule"
+    id="id-30291a824f824a6088702c45da27ae65"
+    documentation="Undervisande lärare söker fram ett schema för en kurs i TimeEdit och kontrollerar att&#xA;schemat överensstämmer med inskickat underlag samt att det inte finns&#xA;dubbelbokningar med annat (ex. möten, uppdrag etc.) i sin kalender. Om det finns&#xA;önskemål om ändringar i kursens schema kontaktar läraren den kursansvarige som&#xA;vidarebefordrar förslag på ändringar via mejl till schemaläggningen som genomför&#xA;ändringar i TimeEdit. Schemaläggaren meddelar via mejl till kursansvarig när ändringar&#xA;i schemat är genomförda."/>

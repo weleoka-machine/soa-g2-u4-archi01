@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transcribe schedule to TimeEdit"
+    id="id-600051c35baf45e096d02bf99da74091"
+    documentation="Inkomna schemaunderlag hanteras i den ordning de inkommer till schemaläggningen&#xA;som manuellt registrerar och bokar lokal för respektive pass i systemet TimeEdit. Lokal&#xA;bokas med hänsyn till antal studenter samt krav på utrustning. I denna process måste&#xA;schemaläggaren kontrollera att ingen dubbelbokning av pass sker på parallellkurser&#xA;inom program. Om inte parallellkurser finns angivet i schemaunderlaget kan en&#xA;manuell kontroll utföras i utbildningssystemet Epok."/>

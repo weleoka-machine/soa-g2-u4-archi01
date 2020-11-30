@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement schedule in LMS"
+    id="id-bb52e628f046463fb897a9ce4aab73ce"
+    documentation="När schemat är fastställt söker den kursansvarige fram schemat för en kurs i TimeEdit&#xA;som underlag för manuell registrering av varje pass i canvaskalendern för kursen. I&#xA;samband med denna registrering skrivs information om titel: ex. kurskod,&#xA;lektion/handledning, plats: lokal + länk till Zoom-rum samt vem som är lärare och&#xA;kortfattat om passets innehåll."/>
