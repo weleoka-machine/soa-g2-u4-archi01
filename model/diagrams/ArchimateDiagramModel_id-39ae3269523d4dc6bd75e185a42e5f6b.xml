@@ -311,15 +311,6 @@
         value="${name}&#xA;${documentation}"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-486f87afdd2b495c99f813ee3c55897e"
-        source="id-772fae5f1ea14fcaaf3d052d51b7165b"
-        target="id-840897f63a91426fb6843fb969b94d30">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-8525afac25e5477c9581ea9af0cfd6d8.xml#id-8525afac25e5477c9581ea9af0cfd6d8"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-46f73d231be54f3c85da6ab37ab28f27"
         source="id-772fae5f1ea14fcaaf3d052d51b7165b"
         target="id-513cea889587427cb37540935c410225">
@@ -344,6 +335,15 @@
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-dff252dbca7a4153ab0f2332a28cb875.xml#id-dff252dbca7a4153ab0f2332a28cb875"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7223ac7ebc3949e8b1923121ae19de3d"
+        source="id-772fae5f1ea14fcaaf3d052d51b7165b"
+        target="id-840897f63a91426fb6843fb969b94d30">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-8525afac25e5477c9581ea9af0cfd6d8.xml#id-8525afac25e5477c9581ea9af0cfd6d8"/>
     </sourceConnections>
     <bounds
         x="252"
@@ -410,7 +410,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-840897f63a91426fb6843fb969b94d30"
-        targetConnections="id-3a0c7ed8971e4dac9b146f7b1df0c5b2 id-486f87afdd2b495c99f813ee3c55897e">
+        targetConnections="id-3a0c7ed8971e4dac9b146f7b1df0c5b2 id-7223ac7ebc3949e8b1923121ae19de3d">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-397a2c1d58ea4451afa11e604eb6534c"
@@ -615,9 +615,9 @@
           href="AssociationRelationship_id-b2a592a9b01f4129aa4f71bc78a615a5.xml#id-b2a592a9b01f4129aa4f71bc78a615a5"/>
     </sourceConnections>
     <bounds
-        x="1056"
+        x="1068"
         y="96"
-        width="192"
+        width="180"
         height="363"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -649,7 +649,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ee166cb6159d40f08ddf1079269e28c8"
       textAlignment="1"
-      content="There's no guarantee every course has a schedule!">
+      content="There's no guarantee that every course has a schedule!">
     <bounds
         x="24"
         y="336"
