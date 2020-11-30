@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Course schedule"
+    id="id-b4405e974aa04258a826a30239e45f8e"
+    documentation="-- information --&#xD;&#xA;&#xD;&#xA;course_id (kurskod)&#xD;&#xA;lesson_id (lektion/handledning)&#xD;&#xA;classroom (lokal)&#xD;&#xA;online_meeting_link (länk till Zoom-rum)&#xD;&#xA;lecturer (lektör)&#xD;&#xA;agenda (passets innehåll)"/>
