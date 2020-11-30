@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Base schedule"
     id="id-331ff8f24fa44fde93d2c1e525a30148"
-    documentation="This is just an excel spreadsheet&#xA;&#xA;-- basic info --&#xA;course_id (kurskod)&#xA;course_name (kursnamn)&#xA;course_admin (kursansvarig)&#xA;student_count (antal studenter)&#xA;lessons (lektioner)&#xA;parallel_program_courses (parallela programkurser)&#xA;teachers (undervisande lärare)&#xA;other_education (övrig undervisning)&#xA;&#xA;-- other info --&#xA;labrooms (labsalar)&#xA;equipment (utrustning)&#xA;non-campus (distansundervisning)"/>
+    documentation="(excel spreadsheet)&#xA;&#xA;-- basic info --&#xA;course_id (kurskod)&#xA;course_name (kursnamn)&#xA;course_admin (kursansvarig)&#xA;student_count (antal studenter)&#xA;lessons (lektioner)&#xA;parallel_program_courses (parallela programkurser)&#xA;teachers (undervisande lärare)&#xA;other_education (övrig undervisning)&#xA;&#xA;-- other info --&#xA;labrooms (labsalar)&#xA;equipment (utrustning)&#xA;non-campus (distansundervisning)"/>
