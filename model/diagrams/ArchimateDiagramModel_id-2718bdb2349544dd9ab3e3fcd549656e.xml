@@ -39,7 +39,7 @@
         x="72"
         y="240"
         width="757"
-        height="157"/>
+        height="181"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bd43144d7cda45c0902a4555fba69c9d"
@@ -55,9 +55,9 @@
       </sourceConnections>
       <bounds
           x="60"
-          y="49"
-          width="216"
-          height="60"/>
+          y="60"
+          width="181"
+          height="69"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-2bd20ca6f4b34ddab2754a74adebde93.xml#id-2bd20ca6f4b34ddab2754a74adebde93"/>
@@ -75,9 +75,18 @@
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-96461fed66d5407d8af53e01a9a47908.xml#id-96461fed66d5407d8af53e01a9a47908"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b19755c64ab54c22939e8851adcd8685"
+          source="id-4d76de2c77e6450bb63c5e9d3af9cd52"
+          target="id-ddfa85b602cf4f4db03a2a94bf96e3ee">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-397e411ee3e74a84aa157a32a0fc09f3.xml#id-397e411ee3e74a84aa157a32a0fc09f3"/>
+      </sourceConnections>
       <bounds
           x="372"
-          y="50"
+          y="60"
           width="120"
           height="58"/>
       <archimateElement
@@ -90,7 +99,7 @@
         targetConnections="id-2eae36d088a04bbeb132aef84864d8bf id-fcf313eeb59a48159db3b78a78fac5a4">
       <bounds
           x="588"
-          y="51"
+          y="61"
           width="120"
           height="55"/>
       <archimateElement
@@ -204,5 +213,21 @@
         y="204"
         width="145"
         height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ddfa85b602cf4f4db03a2a94bf96e3ee"
+      targetConnections="id-b19755c64ab54c22939e8851adcd8685">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${documentation}"/>
+    <bounds
+        x="444"
+        y="468"
+        width="133"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-f3b94ef565164e3bb7598a201d7cb9c0.xml#id-f3b94ef565164e3bb7598a201d7cb9c0"/>
   </children>
 </archimate:ArchimateDiagramModel>
