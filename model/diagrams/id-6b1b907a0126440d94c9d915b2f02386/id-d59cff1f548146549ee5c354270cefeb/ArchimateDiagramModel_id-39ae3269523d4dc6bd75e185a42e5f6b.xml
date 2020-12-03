@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="base-business-overview"
+    name="b-overview"
     id="id-39ae3269523d4dc6bd75e185a42e5f6b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
