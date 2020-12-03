@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Send base schedule notification to administrator"
-    id="id-550a1f085aaf4e80b8f0cb8a65a2b2ce"/>
+    id="id-550a1f085aaf4e80b8f0cb8a65a2b2ce"
+    documentation="Schemaläggaren skickar via e-post en länk till en webbsida med möjlighet att ladda ned&#xA;schemaunderlag till alla kursansvariga."/>
