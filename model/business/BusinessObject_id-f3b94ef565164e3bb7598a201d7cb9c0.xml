@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Classroom bookning"
     id="id-f3b94ef565164e3bb7598a201d7cb9c0"
-    documentation="-- consideration --&#xD;&#xA;&#xD;&#xA;enroll student (antal student)&#xD;&#xA;requirement of equipment (krav på utrustning)&#xD;&#xA;"/>
+    documentation="-- consideration --&#xD;&#xA;&#xD;&#xA;student_count (antal studenter)&#xD;&#xA;equipment_list (utrustningslista)&#xD;&#xA;"/>

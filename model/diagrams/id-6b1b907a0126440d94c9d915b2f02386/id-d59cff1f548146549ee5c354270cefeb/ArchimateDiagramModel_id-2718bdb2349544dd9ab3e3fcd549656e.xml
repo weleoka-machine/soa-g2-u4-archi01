@@ -36,8 +36,8 @@
           href="CompositionRelationship_id-bebedaaa0eee4c71849931c70e7b28ea.xml#id-bebedaaa0eee4c71849931c70e7b28ea"/>
     </sourceConnections>
     <bounds
-        x="72"
-        y="240"
+        x="204"
+        y="168"
         width="757"
         height="181"/>
     <children
@@ -103,7 +103,7 @@
         textAlignment="1"
         content="Zoom available">
       <bounds
-          x="324"
+          x="378"
           y="115"
           width="108"
           height="28"/>
@@ -126,8 +126,8 @@
           href="CompositionRelationship_id-43fef9ab88f7431a8224c59c9fe3ed30.xml#id-43fef9ab88f7431a8224c59c9fe3ed30"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="84"
+        x="540"
+        y="12"
         width="120"
         height="55"/>
     <archimateElement
@@ -147,9 +147,9 @@
           href="AssignmentRelationship_id-abf30ec234a44c3688ee9e1d8f3be030.xml#id-abf30ec234a44c3688ee9e1d8f3be030"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="84"
-        width="120"
+        x="300"
+        y="12"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -165,8 +165,8 @@
         source="id-69f7b4b7ba484b7c804501c47035d089"
         target="id-95461f9c8e3f4ffb91a6ea552d69b9a7"/>
     <bounds
-        x="511"
-        y="153"
+        x="643"
+        y="81"
         width="186"
         height="52"/>
   </children>
@@ -197,8 +197,8 @@
           href="AssociationRelationship_id-e2d4abd35f334e28a35eca27c8191980.xml#id-e2d4abd35f334e28a35eca27c8191980"/>
     </sourceConnections>
     <bounds
-        x="876"
-        y="138"
+        x="24"
+        y="96"
         width="136"
         height="261"/>
     <archimateElement
@@ -211,8 +211,8 @@
       textAlignment="1"
       content="The trigger for this process is the course admin.">
     <bounds
-        x="36"
-        y="204"
+        x="184"
+        y="132"
         width="145"
         height="61"/>
   </children>
