@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="b-z03-verify-classroom-booking"
+    name="b-z03-verify-booking-of-classroom"
     id="id-8400f11031a4441884d186c74a7666af">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
