@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fill in concrete details"
+    id="id-175f14c76d1c4b50af21b87d5b1a6e5d"
+    documentation="Handles:&#xA;&#xA;courseAdmin (kursansvarig)&#xA;teacherList (lärarelista)&#xA;totalHours (Antal timmar)&#xA;campusStudentCount (Antal campusstudenter)&#xA;distanceStudentCount (Antal distansstudenter)&#xA;parallelCoursesList (Lista på parallelkurser)&#xA;"/>

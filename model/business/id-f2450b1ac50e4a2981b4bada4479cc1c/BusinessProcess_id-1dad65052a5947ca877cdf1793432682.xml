@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fill in base schedule details"
     id="id-1dad65052a5947ca877cdf1793432682"
-    documentation="(base process)"/>
+    documentation="Need to fill in:&#xA;&#xA;courseCode (kurskod)&#xA;courseName (kursnamn)&#xA;occasionCode (tillfällekod)&#xA;modulCode (modul)&#xA;&#xA;courseAdmin (kursansvarig)&#xA;teacherList (lärarelista)&#xA;totalHours (Antal timmar)&#xA;campusStudentCount (Antal campusstudenter)&#xA;distanceStudentCount (Antal distansstudenter)&#xA;parallelCoursesList (Lista på parallelkurser)&#xA;&#xA;&#xA;Kursens upplägg, översikt: föreläsningar, lektioner, labbar., är kursen modulbestämd?&#xA;&#xA;Specialsal (datorlab):&#xA;&#xA;Specialsal med onterad teknisk utrustning:&#xA;&#xA;Specialsal med whiteboard:&#xA;&#xA;Övriga upplysningar&#xA;"/>

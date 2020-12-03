@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Course Instance-or-Occasion"
+    id="id-f0d953d918b241ff8a87dcb1d62d3888"
+    documentation="Handles:&#xA;&#xA;CourseCode (kurskod)&#xA;CourseName (kursnamn)&#xA;OccasionCode (tillfällekod)"/>
