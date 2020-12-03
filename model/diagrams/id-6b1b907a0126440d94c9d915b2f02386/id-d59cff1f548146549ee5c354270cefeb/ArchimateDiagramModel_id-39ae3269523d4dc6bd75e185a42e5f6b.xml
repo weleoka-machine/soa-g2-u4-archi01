@@ -160,6 +160,17 @@
           width="105"
           height="32"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-1d8c51aaba77402f9459e89a88e67fa0"
+        textAlignment="1"
+        content="Zoom needed!">
+      <bounds
+          x="408"
+          y="101"
+          width="107"
+          height="26"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-f960d026db7a419a9fb97a591c7ed0c6.xml#id-f960d026db7a419a9fb97a591c7ed0c6"/>
