@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="b-z03-verify-booking-of-classroom"
-    id="id-8400f11031a4441884d186c74a7666af">
+    id="id-8400f11031a4441884d186c74a7666af"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6e65e769da3c4dc881a13efd325c7a87"
@@ -170,5 +171,16 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-f3b94ef565164e3bb7598a201d7cb9c0.xml#id-f3b94ef565164e3bb7598a201d7cb9c0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-426bd518e161476f9872bf94d292f3bf"
+      textAlignment="1"
+      content="- skrivare;&#xA;- projektor;&#xA;- hd-kamera;&#xA;- ljudsystem;&#xA;- IoT hub kit;">
+    <bounds
+        x="470"
+        y="403"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

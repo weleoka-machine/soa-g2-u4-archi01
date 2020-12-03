@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="b-z04-fill-in-base-schedule-details"
-    id="id-6ddb2ce6505c4a5d91426e25c5f09f30">
+    id="id-6ddb2ce6505c4a5d91426e25c5f09f30"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-c0ca886ebd12453c978a8ec3cb595b9b"

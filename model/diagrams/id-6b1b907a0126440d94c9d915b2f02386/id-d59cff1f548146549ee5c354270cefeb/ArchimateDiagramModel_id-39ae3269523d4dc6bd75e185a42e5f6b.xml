@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="b-overview"
-    id="id-39ae3269523d4dc6bd75e185a42e5f6b">
+    id="id-39ae3269523d4dc6bd75e185a42e5f6b"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6f6358aea048492b842905f6599b8f94"
