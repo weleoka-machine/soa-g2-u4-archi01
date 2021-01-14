@@ -1,0 +1,20 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="resultat"
+    id="id-15b46a1a47d348d180230a6b1b577f48">
+  <properties
+      key="pnr"
+      value="string"/>
+  <properties
+      key="kurskod"
+      value="string"/>
+  <properties
+      key="modul"
+      value="string"/>
+  <properties
+      key="datum"
+      value="string"/>
+  <properties
+      key="betyg"
+      value="string"/>
+</archimate:BusinessObject>
