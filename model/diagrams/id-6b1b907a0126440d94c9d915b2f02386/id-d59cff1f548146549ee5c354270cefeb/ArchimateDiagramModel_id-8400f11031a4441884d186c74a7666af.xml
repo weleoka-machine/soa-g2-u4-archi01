@@ -105,13 +105,13 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-03bc9b9149bb479b8e153794ced9e4f9"
       textAlignment="1"
-      content="parallell course d.v.s is held for program and as independent course during one semester">
+      content="parallell course e.g. is held for program and as independent course during one semester">
     <features
         name="labelExpression"
         value="${content}"/>
     <bounds
-        x="672"
-        y="72"
+        x="648"
+        y="360"
         width="185"
         height="80"/>
   </children>
@@ -128,7 +128,7 @@
           href="ServingRelationship_id-6e57a16583a6444585aaae5581378760.xml#id-6e57a16583a6444585aaae5581378760"/>
     </sourceConnections>
     <bounds
-        x="492"
+        x="516"
         y="312"
         width="181"
         height="49"/>
